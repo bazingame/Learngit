@@ -20,7 +20,7 @@
  - 暂存区
  - git仓库(远程仓库)
  
- ![Alt text](./areas.png)
+ ![Alt text](./img/areas.png)
 
 几个状态
 - 未跟踪(Untracked)(工作区文件)
@@ -32,7 +32,7 @@
 - 已推送(Pushed)
 
 Git 工作流程
-![Alt text](./lifecycle.png)
+![Alt text](./img/lifecycle.png)
 
 
 #### 文件状态
@@ -98,25 +98,25 @@ Git 工作流程
 ### 分支管理
 - 概念
 - 应用场景
-![Alt text](./111.png)
+![Alt text](./img/111.png)
 
 
 
 ---
-![Alt text](./cedr6fvm5f.png)
+![Alt text](./img/cedr6fvm5f.png)
 
 ---
-![Alt text](./下载.png)
+![Alt text](./img/下载.png)
 
 
 
-![Alt text](./222.png)
+![Alt text](./img/222.png)
 
 `git branch  [branch name]`
 > 新建分支
 
 
-![Alt text](./333.png)
+![Alt text](./img/333.png)
 
 `git checkout [branch name]`
 > 切换分支
@@ -128,15 +128,15 @@ Git 工作流程
  - -v
  - -a
  
-![Alt text](./444.png)
+![Alt text](./img/444.png)
 
 ---
 
-![Alt text](./555.png)
+![Alt text](./img/555.png)
 
-![Alt text](./666.png)
+![Alt text](./img/666.png)
 
-![Alt text](./99999.png)
+![Alt text](./img/99999.png)
 
 
 ##### 分支合并
@@ -145,7 +145,7 @@ Git 工作流程
 
 `git rebase`
  > 变基
- ![Alt text](./9999999999.png)
+ ![Alt text](./img/9999999999.png)
 
 
 
